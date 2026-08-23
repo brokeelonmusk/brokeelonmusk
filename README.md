@@ -14,7 +14,7 @@ building things for Discord, breaking things, fixing them, and learning along th
 
 <br><br>
 
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/brokeelonmusk)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](<https://discord.com/users/1481577343377080441>)
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/brokeelonmusk)
 
 </div>
